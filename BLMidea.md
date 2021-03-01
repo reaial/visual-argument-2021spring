@@ -6,16 +6,12 @@ Idea for GIMP Project
 
 
 
- - afros
+
  - fist
- - marching
- - red
  - black and white
  - hands covering a mouth
  - hanging
- - red and blue lights
- - gas bombs
- - someone on their knees
- - tied up hands
- - child on someones shoulders
- "stand up take my people with me together we are going to the other side" Song Lyric 
+ - this is America " kendrick "
+
+
+I almost think now after working on this a little bit, that it is a less is more argument. 
