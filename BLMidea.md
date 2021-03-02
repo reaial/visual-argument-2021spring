@@ -11,7 +11,9 @@ Idea for GIMP Project
  - black and white
  - hands covering a mouth
  - hanging
- - this is America " kendrick "
+ - flag
+ 
 
 
-I almost think now after working on this a little bit, that it is a less is more argument. 
+
+I almost think now after working on this a little bit, that it is a less is more argument.
