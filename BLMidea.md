@@ -1,8 +1,10 @@
 
+Gimp Project
 
-Idea for GIMP Project
+"America Wasn't Made For Me
 
- Black Lives Matter image: mostly black and white hints of yellow, and add red over the middle of it? There should be a red line in the middle that says justice.
+ This is a low image juxtaposition so that you can have a larger impact. Just by the images, and the editing tools I used. 
+
 
 
 
@@ -12,7 +14,7 @@ Idea for GIMP Project
  - hands covering a mouth
  - hanging
  - flag
- 
+
 
 
 
