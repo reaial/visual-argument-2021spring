@@ -1,9 +1,10 @@
 
-Gimp Project
+PhotoShop Project
 
 "America Wasn't Made For Me
 
- This is a low image juxtaposition so that you can have a larger impact. Just by the images, and the editing tools I used. 
+ This is a low image juxtaposition so that you can have a larger impact. Just by the images, and the editing tools I used. I also used the word 'Freedom' in a more ironic way.
+
 
 
 

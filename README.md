@@ -1,7 +1,7 @@
 # Project 2: Visual Argument / Rhetorical Collage
- "America Wasn't Made For Me
+ "America Wasn't Made For Me"
 
-  This is a low image juxtaposition so that you can have a larger impact. Just by the images, and the editing tools I used.
+  This is a low image juxtaposition so that you can have a larger impact. Just by the images, and the editing tools I used. While I also took the one word that we are all supposed to have. Since we all live in America. 
 
 Your task in this unit is to **make a rhetorical claim through the juxtaposition of images and text.** It's kind of a collage, but a collage with an argument to make. In assigning this, I have two main goals for you: (1) to learn how to ethically obtain images and edit them using digital tools, and (2) to explore the affordances of still images as a medium, and especially their ability to _direct attention_ and _help make ideas memorable_.
 
